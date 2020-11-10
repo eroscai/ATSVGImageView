@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1080px" height="740px" viewBox="0 0 1080 740" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>frame_2</title>
+    <g id="layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3-3" transform="translate(0.000000, -590.000000)" fill="#000000">
+            <path d="M0,670 C152,776.666667 332,776.666667 540,670 C748,563.333333 928,563.333333 1080,670 L1080,1250 C928,1143.33333 748,1143.33333 540,1250 C332,1356.66667 152,1356.66667 0,1250 L0,670 Z" id="frame_2"></path>
+        </g>
+    </g>
+</svg>
